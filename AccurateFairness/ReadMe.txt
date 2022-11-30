@@ -1,5 +1,5 @@
 **************************************************************************************
-How to check whether the predications of a machine learning model are accurately fair.
+How to check whether the predications of a machine learning model are accurately fair?
 
 For example: to check the accurate fairness on the Ctrip dataset,
 First run prepare_ctrip_data.py to generate the test dataset,
